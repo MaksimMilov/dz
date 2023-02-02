@@ -1,0 +1,17 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+p {
+    width: 400px;
+}
+button {
+    margin:20px auto;
+    color: #FFFFFF;
+    display: block;
+    height: 35px;
+    text-align: center;
+    line-height: 35px;
+    background-color: rgb(53, 149, 194);
+    transition: all 0.5s linear 0s;
+}
